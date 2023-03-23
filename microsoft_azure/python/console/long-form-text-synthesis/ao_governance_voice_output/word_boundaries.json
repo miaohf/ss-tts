@@ -1,0 +1,2232 @@
+[
+    {
+        "audio_offset": 50.0,
+        "duration": 275.0,
+        "text": "Every"
+    },
+    {
+        "audio_offset": 337.5,
+        "duration": 550.0,
+        "text": "Monday"
+    },
+    {
+        "audio_offset": 937.5,
+        "duration": 150.0,
+        "text": "at"
+    },
+    {
+        "audio_offset": 1100.0,
+        "duration": 1750.0,
+        "text": "10 AM EST"
+    },
+    {
+        "audio_offset": 2962.5,
+        "duration": 150.0,
+        "text": ","
+    },
+    {
+        "audio_offset": 3112.5,
+        "duration": 75.0,
+        "text": "you"
+    },
+    {
+        "audio_offset": 3200.0,
+        "duration": 150.0,
+        "text": "get"
+    },
+    {
+        "audio_offset": 3362.5,
+        "duration": 512.5,
+        "text": "notified"
+    },
+    {
+        "audio_offset": 3887.5,
+        "duration": 287.5,
+        "text": "via"
+    },
+    {
+        "audio_offset": 4187.5,
+        "duration": 337.5,
+        "text": "teams"
+    },
+    {
+        "audio_offset": 4537.5,
+        "duration": 875.0,
+        "text": "notification"
+    },
+    {
+        "audio_offset": 5462.5,
+        "duration": 137.5,
+        "text": "with"
+    },
+    {
+        "audio_offset": 5612.5,
+        "duration": 62.5,
+        "text": "a"
+    },
+    {
+        "audio_offset": 5687.5,
+        "duration": 337.5,
+        "text": "link"
+    },
+    {
+        "audio_offset": 6037.5,
+        "duration": 87.5,
+        "text": "to"
+    },
+    {
+        "audio_offset": 6137.5,
+        "duration": 437.5,
+        "text": "access"
+    },
+    {
+        "audio_offset": 6587.5,
+        "duration": 87.5,
+        "text": "the"
+    },
+    {
+        "audio_offset": 6687.5,
+        "duration": 600.0,
+        "text": "report"
+    },
+    {
+        "audio_offset": 7300.0,
+        "duration": 100.0,
+        "text": "."
+    },
+    {
+        "audio_offset": 8210.0,
+        "duration": 300.0,
+        "text": "Click"
+    },
+    {
+        "audio_offset": 8522.5,
+        "duration": 87.5,
+        "text": "to"
+    },
+    {
+        "audio_offset": 8622.5,
+        "duration": 425.0,
+        "text": "access"
+    },
+    {
+        "audio_offset": 9060.0,
+        "duration": 100.0,
+        "text": "the"
+    },
+    {
+        "audio_offset": 9172.5,
+        "duration": 550.0,
+        "text": "workspace"
+    },
+    {
+        "audio_offset": 9735.0,
+        "duration": 100.0,
+        "text": "of"
+    },
+    {
+        "audio_offset": 9847.5,
+        "duration": 237.5,
+        "text": "AO"
+    },
+    {
+        "audio_offset": 10097.5,
+        "duration": 450.0,
+        "text": "Governance"
+    },
+    {
+        "audio_offset": 10560.0,
+        "duration": 562.5,
+        "text": "Report"
+    },
+    {
+        "audio_offset": 11135.0,
+        "duration": 100.0,
+        "text": "."
+    },
+    {
+        "audio_offset": 12050.0,
+        "duration": 450.0,
+        "text": "Select"
+    },
+    {
+        "audio_offset": 12512.5,
+        "duration": 125.0,
+        "text": "your"
+    },
+    {
+        "audio_offset": 12650.0,
+        "duration": 475.0,
+        "text": "client"
+    },
+    {
+        "audio_offset": 13212.5,
+        "duration": 125.0,
+        "text": "and"
+    },
+    {
+        "audio_offset": 13350.0,
+        "duration": 337.5,
+        "text": "click"
+    },
+    {
+        "audio_offset": 13775.0,
+        "duration": 225.0,
+        "text": "view"
+    },
+    {
+        "audio_offset": 14012.5,
+        "duration": 487.5,
+        "text": "report"
+    },
+    {
+        "audio_offset": 14600.0,
+        "duration": 100.0,
+        "text": "to"
+    },
+    {
+        "audio_offset": 14712.5,
+        "duration": 437.5,
+        "text": "generate"
+    },
+    {
+        "audio_offset": 15162.5,
+        "duration": 275.0,
+        "text": "it"
+    },
+    {
+        "audio_offset": 15450.0,
+        "duration": 100.0,
+        "text": "."
+    },
+    {
+        "audio_offset": 16370.0,
+        "duration": 450.0,
+        "text": "Export"
+    },
+    {
+        "audio_offset": 16832.5,
+        "duration": 75.0,
+        "text": "the"
+    },
+    {
+        "audio_offset": 16920.0,
+        "duration": 487.5,
+        "text": "report"
+    },
+    {
+        "audio_offset": 17470.0,
+        "duration": 100.0,
+        "text": "to"
+    },
+    {
+        "audio_offset": 17582.5,
+        "duration": 700.0,
+        "text": "PDF"
+    },
+    {
+        "audio_offset": 18382.5,
+        "duration": 12.5,
+        "text": "("
+    },
+    {
+        "audio_offset": 18395.0,
+        "duration": 475.0,
+        "text": "PDF"
+    },
+    {
+        "audio_offset": 18882.5,
+        "duration": 462.5,
+        "text": "only"
+    },
+    {
+        "audio_offset": 19357.5,
+        "duration": 100.0,
+        "text": "."
+    },
+    {
+        "audio_offset": 20258.0,
+        "duration": 150.0,
+        "text": "The"
+    },
+    {
+        "audio_offset": 20420.5,
+        "duration": 275.0,
+        "text": "data"
+    },
+    {
+        "audio_offset": 20708.0,
+        "duration": 175.0,
+        "text": "from"
+    },
+    {
+        "audio_offset": 20895.5,
+        "duration": 350.0,
+        "text": "Client"
+    },
+    {
+        "audio_offset": 21258.0,
+        "duration": 437.5,
+        "text": "Sentiment"
+    },
+    {
+        "audio_offset": 21708.0,
+        "duration": 425.0,
+        "text": "Portal"
+    },
+    {
+        "audio_offset": 22208.0,
+        "duration": 125.0,
+        "text": "for"
+    },
+    {
+        "audio_offset": 22345.5,
+        "duration": 87.5,
+        "text": "the"
+    },
+    {
+        "audio_offset": 22445.5,
+        "duration": 337.5,
+        "text": "week"
+    },
+    {
+        "audio_offset": 22870.5,
+        "duration": 137.5,
+        "text": "is"
+    },
+    {
+        "audio_offset": 23020.5,
+        "duration": 737.5,
+        "text": "automatically"
+    },
+    {
+        "audio_offset": 23770.5,
+        "duration": 550.0,
+        "text": "updated"
+    },
+    {
+        "audio_offset": 24333.0,
+        "duration": 100.0,
+        "text": "."
+    },
+    {
+        "audio_offset": 25250.0,
+        "duration": 600.0,
+        "text": "However"
+    },
+    {
+        "audio_offset": 25950.0,
+        "duration": 75.0,
+        "text": ","
+    },
+    {
+        "audio_offset": 26025.0,
+        "duration": 125.0,
+        "text": "we"
+    },
+    {
+        "audio_offset": 26162.5,
+        "duration": 237.5,
+        "text": "still"
+    },
+    {
+        "audio_offset": 26412.5,
+        "duration": 150.0,
+        "text": "need"
+    },
+    {
+        "audio_offset": 26575.0,
+        "duration": 87.5,
+        "text": "to"
+    },
+    {
+        "audio_offset": 26675.0,
+        "duration": 375.0,
+        "text": "update"
+    },
+    {
+        "audio_offset": 27062.5,
+        "duration": 387.5,
+        "text": "data"
+    },
+    {
+        "audio_offset": 27550.0,
+        "duration": 187.5,
+        "text": "for"
+    },
+    {
+        "audio_offset": 27750.0,
+        "duration": 200.0,
+        "text": "other"
+    },
+    {
+        "audio_offset": 27962.5,
+        "duration": 312.5,
+        "text": "parts"
+    },
+    {
+        "audio_offset": 28287.5,
+        "duration": 62.5,
+        "text": "of"
+    },
+    {
+        "audio_offset": 28362.5,
+        "duration": 75.0,
+        "text": "the"
+    },
+    {
+        "audio_offset": 28450.0,
+        "duration": 600.0,
+        "text": "report"
+    },
+    {
+        "audio_offset": 29062.5,
+        "duration": 100.0,
+        "text": "."
+    },
+    {
+        "audio_offset": 29978.0,
+        "duration": 262.5,
+        "text": "Every"
+    },
+    {
+        "audio_offset": 30253.0,
+        "duration": 500.0,
+        "text": "Monday"
+    },
+    {
+        "audio_offset": 30765.5,
+        "duration": 162.5,
+        "text": "at"
+    },
+    {
+        "audio_offset": 30940.5,
+        "duration": 1950.0,
+        "text": "11 AM EST"
+    },
+    {
+        "audio_offset": 32990.5,
+        "duration": 150.0,
+        "text": ","
+    },
+    {
+        "audio_offset": 33140.5,
+        "duration": 125.0,
+        "text": "there"
+    },
+    {
+        "audio_offset": 33278.0,
+        "duration": 100.0,
+        "text": "will"
+    },
+    {
+        "audio_offset": 33390.5,
+        "duration": 125.0,
+        "text": "be"
+    },
+    {
+        "audio_offset": 33528.0,
+        "duration": 62.5,
+        "text": "a"
+    },
+    {
+        "audio_offset": 33603.0,
+        "duration": 362.5,
+        "text": "teams"
+    },
+    {
+        "audio_offset": 33978.0,
+        "duration": 887.5,
+        "text": "notification"
+    },
+    {
+        "audio_offset": 34915.5,
+        "duration": 125.0,
+        "text": "with"
+    },
+    {
+        "audio_offset": 35053.0,
+        "duration": 87.5,
+        "text": "the"
+    },
+    {
+        "audio_offset": 35153.0,
+        "duration": 662.5,
+        "text": "directory"
+    },
+    {
+        "audio_offset": 35878.0,
+        "duration": 112.5,
+        "text": "to"
+    },
+    {
+        "audio_offset": 36003.0,
+        "duration": 375.0,
+        "text": "provide"
+    },
+    {
+        "audio_offset": 36390.5,
+        "duration": 412.5,
+        "text": "data"
+    },
+    {
+        "audio_offset": 36878.0,
+        "duration": 137.5,
+        "text": "to"
+    },
+    {
+        "audio_offset": 37028.0,
+        "duration": 362.5,
+        "text": "update"
+    },
+    {
+        "audio_offset": 37403.0,
+        "duration": 75.0,
+        "text": "the"
+    },
+    {
+        "audio_offset": 37490.5,
+        "duration": 612.5,
+        "text": "report"
+    },
+    {
+        "audio_offset": 38115.5,
+        "duration": 100.0,
+        "text": "."
+    },
+    {
+        "audio_offset": 39026.0,
+        "duration": 287.5,
+        "text": "Open"
+    },
+    {
+        "audio_offset": 39326.0,
+        "duration": 87.5,
+        "text": "the"
+    },
+    {
+        "audio_offset": 39426.0,
+        "duration": 325.0,
+        "text": "Box"
+    },
+    {
+        "audio_offset": 39763.5,
+        "duration": 462.5,
+        "text": "folder"
+    },
+    {
+        "audio_offset": 40288.5,
+        "duration": 137.5,
+        "text": "with"
+    },
+    {
+        "audio_offset": 40438.5,
+        "duration": 112.5,
+        "text": "Your"
+    },
+    {
+        "audio_offset": 40563.5,
+        "duration": 1050.0,
+        "text": "Name_Client"
+    },
+    {
+        "audio_offset": 41626.0,
+        "duration": 587.5,
+        "text": "Governance"
+    },
+    {
+        "audio_offset": 42313.5,
+        "duration": 187.5,
+        "text": "and"
+    },
+    {
+        "audio_offset": 42513.5,
+        "duration": 237.5,
+        "text": "open"
+    },
+    {
+        "audio_offset": 42763.5,
+        "duration": 75.0,
+        "text": "the"
+    },
+    {
+        "audio_offset": 42851.0,
+        "duration": 487.5,
+        "text": "folder"
+    },
+    {
+        "audio_offset": 43388.5,
+        "duration": 137.5,
+        "text": "with"
+    },
+    {
+        "audio_offset": 43538.5,
+        "duration": 100.0,
+        "text": "the"
+    },
+    {
+        "audio_offset": 43651.0,
+        "duration": 412.5,
+        "text": "latest"
+    },
+    {
+        "audio_offset": 44076.0,
+        "duration": 325.0,
+        "text": "date"
+    },
+    {
+        "audio_offset": 44501.0,
+        "duration": 87.5,
+        "text": "("
+    },
+    {
+        "audio_offset": 44588.5,
+        "duration": 200.0,
+        "text": "this"
+    },
+    {
+        "audio_offset": 44801.0,
+        "duration": 512.5,
+        "text": "Friday"
+    },
+    {
+        "audio_offset": 45326.0,
+        "duration": 100.0,
+        "text": "."
+    },
+    {
+        "audio_offset": 46226.0,
+        "duration": 362.5,
+        "text": "Update"
+    },
+    {
+        "audio_offset": 46601.0,
+        "duration": 75.0,
+        "text": "the"
+    },
+    {
+        "audio_offset": 46688.5,
+        "duration": 400.0,
+        "text": "Excel"
+    },
+    {
+        "audio_offset": 47101.0,
+        "duration": 562.5,
+        "text": "files"
+    },
+    {
+        "audio_offset": 47738.5,
+        "duration": 212.5,
+        "text": "for"
+    },
+    {
+        "audio_offset": 47963.5,
+        "duration": 125.0,
+        "text": "all"
+    },
+    {
+        "audio_offset": 48101.0,
+        "duration": 150.0,
+        "text": "your"
+    },
+    {
+        "audio_offset": 48263.5,
+        "duration": 500.0,
+        "text": "clients"
+    },
+    {
+        "audio_offset": 48776.0,
+        "duration": 100.0,
+        "text": "to"
+    },
+    {
+        "audio_offset": 48888.5,
+        "duration": 475.0,
+        "text": "reflect"
+    },
+    {
+        "audio_offset": 49376.0,
+        "duration": 112.5,
+        "text": "on"
+    },
+    {
+        "audio_offset": 49501.0,
+        "duration": 100.0,
+        "text": "the"
+    },
+    {
+        "audio_offset": 49613.5,
+        "duration": 262.5,
+        "text": "AO"
+    },
+    {
+        "audio_offset": 49888.5,
+        "duration": 437.5,
+        "text": "Governance"
+    },
+    {
+        "audio_offset": 50338.5,
+        "duration": 650.0,
+        "text": "Reports"
+    },
+    {
+        "audio_offset": 51001.0,
+        "duration": 100.0,
+        "text": "."
+    },
+    {
+        "audio_offset": 51914.0,
+        "duration": 175.0,
+        "text": "For"
+    },
+    {
+        "audio_offset": 52101.5,
+        "duration": 87.5,
+        "text": "the"
+    },
+    {
+        "audio_offset": 52201.5,
+        "duration": 312.5,
+        "text": "first"
+    },
+    {
+        "audio_offset": 52526.5,
+        "duration": 350.0,
+        "text": "time"
+    },
+    {
+        "audio_offset": 52964.0,
+        "duration": 0.0,
+        "text": ","
+    },
+    {
+        "audio_offset": 52964.0,
+        "duration": 87.5,
+        "text": "it"
+    },
+    {
+        "audio_offset": 53064.0,
+        "duration": 237.5,
+        "text": "might"
+    },
+    {
+        "audio_offset": 53314.0,
+        "duration": 200.0,
+        "text": "take"
+    },
+    {
+        "audio_offset": 53526.5,
+        "duration": 400.0,
+        "text": "sometime"
+    },
+    {
+        "audio_offset": 53939.0,
+        "duration": 100.0,
+        "text": "to"
+    },
+    {
+        "audio_offset": 54051.5,
+        "duration": 600.0,
+        "text": "update"
+    },
+    {
+        "audio_offset": 54664.0,
+        "duration": 100.0,
+        "text": "."
+    },
+    {
+        "audio_offset": 55562.0,
+        "duration": 175.0,
+        "text": "For"
+    },
+    {
+        "audio_offset": 55749.5,
+        "duration": 87.5,
+        "text": "the"
+    },
+    {
+        "audio_offset": 55849.5,
+        "duration": 450.0,
+        "text": "following"
+    },
+    {
+        "audio_offset": 56312.0,
+        "duration": 437.5,
+        "text": "weeks"
+    },
+    {
+        "audio_offset": 56849.5,
+        "duration": 50.0,
+        "text": ","
+    },
+    {
+        "audio_offset": 56899.5,
+        "duration": 275.0,
+        "text": "data"
+    },
+    {
+        "audio_offset": 57187.0,
+        "duration": 187.5,
+        "text": "from"
+    },
+    {
+        "audio_offset": 57387.0,
+        "duration": 337.5,
+        "text": "last"
+    },
+    {
+        "audio_offset": 57737.0,
+        "duration": 325.0,
+        "text": "week"
+    },
+    {
+        "audio_offset": 58124.5,
+        "duration": 137.5,
+        "text": "will"
+    },
+    {
+        "audio_offset": 58274.5,
+        "duration": 137.5,
+        "text": "be"
+    },
+    {
+        "audio_offset": 58424.5,
+        "duration": 737.5,
+        "text": "automatically"
+    },
+    {
+        "audio_offset": 59174.5,
+        "duration": 400.0,
+        "text": "carried"
+    },
+    {
+        "audio_offset": 59637.0,
+        "duration": 237.5,
+        "text": "over"
+    },
+    {
+        "audio_offset": 59887.0,
+        "duration": 150.0,
+        "text": "for"
+    },
+    {
+        "audio_offset": 60049.5,
+        "duration": 362.5,
+        "text": "further"
+    },
+    {
+        "audio_offset": 60424.5,
+        "duration": 650.0,
+        "text": "updates"
+    },
+    {
+        "audio_offset": 61087.0,
+        "duration": 100.0,
+        "text": "."
+    },
+    {
+        "audio_offset": 61994.0,
+        "duration": 162.5,
+        "text": "To"
+    },
+    {
+        "audio_offset": 62169.0,
+        "duration": 375.0,
+        "text": "update"
+    },
+    {
+        "audio_offset": 62556.5,
+        "duration": 150.0,
+        "text": "for"
+    },
+    {
+        "audio_offset": 62719.0,
+        "duration": 462.5,
+        "text": "Services"
+    },
+    {
+        "audio_offset": 63194.0,
+        "duration": 512.5,
+        "text": "page"
+    },
+    {
+        "audio_offset": 63806.5,
+        "duration": 37.5,
+        "text": ","
+    },
+    {
+        "audio_offset": 63844.0,
+        "duration": 162.5,
+        "text": "go"
+    },
+    {
+        "audio_offset": 64019.0,
+        "duration": 87.5,
+        "text": "to"
+    },
+    {
+        "audio_offset": 64119.0,
+        "duration": 100.0,
+        "text": "the"
+    },
+    {
+        "audio_offset": 64231.5,
+        "duration": 500.0,
+        "text": "Services"
+    },
+    {
+        "audio_offset": 64744.0,
+        "duration": 350.0,
+        "text": "tab"
+    },
+    {
+        "audio_offset": 65181.5,
+        "duration": 100.0,
+        "text": "and"
+    },
+    {
+        "audio_offset": 65294.0,
+        "duration": 412.5,
+        "text": "update"
+    },
+    {
+        "audio_offset": 65719.0,
+        "duration": 212.5,
+        "text": "all"
+    },
+    {
+        "audio_offset": 65944.0,
+        "duration": 275.0,
+        "text": "yellow"
+    },
+    {
+        "audio_offset": 66231.5,
+        "duration": 525.0,
+        "text": "highlighted"
+    },
+    {
+        "audio_offset": 66769.0,
+        "duration": 650.0,
+        "text": "columns"
+    },
+    {
+        "audio_offset": 67431.5,
+        "duration": 100.0,
+        "text": "."
+    },
+    {
+        "audio_offset": 68330.0,
+        "duration": 137.5,
+        "text": "To"
+    },
+    {
+        "audio_offset": 68480.0,
+        "duration": 362.5,
+        "text": "update"
+    },
+    {
+        "audio_offset": 68855.0,
+        "duration": 150.0,
+        "text": "for"
+    },
+    {
+        "audio_offset": 69017.5,
+        "duration": 475.0,
+        "text": "Projects"
+    },
+    {
+        "audio_offset": 69505.0,
+        "duration": 512.5,
+        "text": "page"
+    },
+    {
+        "audio_offset": 70117.5,
+        "duration": 37.5,
+        "text": ","
+    },
+    {
+        "audio_offset": 70155.0,
+        "duration": 150.0,
+        "text": "go"
+    },
+    {
+        "audio_offset": 70317.5,
+        "duration": 87.5,
+        "text": "to"
+    },
+    {
+        "audio_offset": 70417.5,
+        "duration": 100.0,
+        "text": "the"
+    },
+    {
+        "audio_offset": 70530.0,
+        "duration": 500.0,
+        "text": "Projects"
+    },
+    {
+        "audio_offset": 71042.5,
+        "duration": 350.0,
+        "text": "tab"
+    },
+    {
+        "audio_offset": 71480.0,
+        "duration": 100.0,
+        "text": "and"
+    },
+    {
+        "audio_offset": 71592.5,
+        "duration": 412.5,
+        "text": "update"
+    },
+    {
+        "audio_offset": 72017.5,
+        "duration": 212.5,
+        "text": "all"
+    },
+    {
+        "audio_offset": 72242.5,
+        "duration": 275.0,
+        "text": "yellow"
+    },
+    {
+        "audio_offset": 72530.0,
+        "duration": 512.5,
+        "text": "highlighted"
+    },
+    {
+        "audio_offset": 73055.0,
+        "duration": 650.0,
+        "text": "columns"
+    },
+    {
+        "audio_offset": 73717.5,
+        "duration": 100.0,
+        "text": "."
+    },
+    {
+        "audio_offset": 74618.0,
+        "duration": 162.5,
+        "text": "To"
+    },
+    {
+        "audio_offset": 74793.0,
+        "duration": 387.5,
+        "text": "update"
+    },
+    {
+        "audio_offset": 75193.0,
+        "duration": 137.5,
+        "text": "for"
+    },
+    {
+        "audio_offset": 75343.0,
+        "duration": 537.5,
+        "text": "Executive"
+    },
+    {
+        "audio_offset": 75893.0,
+        "duration": 387.5,
+        "text": "Summary"
+    },
+    {
+        "audio_offset": 76293.0,
+        "duration": 500.0,
+        "text": "page"
+    },
+    {
+        "audio_offset": 76893.0,
+        "duration": 25.0,
+        "text": ","
+    },
+    {
+        "audio_offset": 76918.0,
+        "duration": 150.0,
+        "text": "go"
+    },
+    {
+        "audio_offset": 77080.5,
+        "duration": 100.0,
+        "text": "to"
+    },
+    {
+        "audio_offset": 77193.0,
+        "duration": 100.0,
+        "text": "the"
+    },
+    {
+        "audio_offset": 77305.5,
+        "duration": 387.5,
+        "text": "Summary"
+    },
+    {
+        "audio_offset": 77705.5,
+        "duration": 350.0,
+        "text": "tab"
+    },
+    {
+        "audio_offset": 78143.0,
+        "duration": 100.0,
+        "text": "and"
+    },
+    {
+        "audio_offset": 78255.5,
+        "duration": 375.0,
+        "text": "update"
+    },
+    {
+        "audio_offset": 78693.0,
+        "duration": 187.5,
+        "text": "all"
+    },
+    {
+        "audio_offset": 78893.0,
+        "duration": 675.0,
+        "text": "columns"
+    },
+    {
+        "audio_offset": 79580.5,
+        "duration": 100.0,
+        "text": "."
+    },
+    {
+        "audio_offset": 80498.0,
+        "duration": 137.5,
+        "text": "To"
+    },
+    {
+        "audio_offset": 80648.0,
+        "duration": 562.5,
+        "text": "customize"
+    },
+    {
+        "audio_offset": 81223.0,
+        "duration": 87.5,
+        "text": "the"
+    },
+    {
+        "audio_offset": 81323.0,
+        "duration": 462.5,
+        "text": "reporting"
+    },
+    {
+        "audio_offset": 81798.0,
+        "duration": 525.0,
+        "text": "cycle"
+    },
+    {
+        "audio_offset": 82423.0,
+        "duration": 62.5,
+        "text": ","
+    },
+    {
+        "audio_offset": 82485.5,
+        "duration": 150.0,
+        "text": "go"
+    },
+    {
+        "audio_offset": 82648.0,
+        "duration": 100.0,
+        "text": "to"
+    },
+    {
+        "audio_offset": 82760.5,
+        "duration": 100.0,
+        "text": "the"
+    },
+    {
+        "audio_offset": 82910.5,
+        "duration": 400.0,
+        "text": "Basic"
+    },
+    {
+        "audio_offset": 83323.0,
+        "duration": 387.5,
+        "text": "Info"
+    },
+    {
+        "audio_offset": 83773.0,
+        "duration": 400.0,
+        "text": "tab"
+    },
+    {
+        "audio_offset": 84285.5,
+        "duration": 125.0,
+        "text": "to"
+    },
+    {
+        "audio_offset": 84423.0,
+        "duration": 350.0,
+        "text": "update"
+    },
+    {
+        "audio_offset": 84785.5,
+        "duration": 75.0,
+        "text": "the"
+    },
+    {
+        "audio_offset": 84873.0,
+        "duration": 450.0,
+        "text": "reporting"
+    },
+    {
+        "audio_offset": 85335.5,
+        "duration": 562.5,
+        "text": "cycle"
+    },
+    {
+        "audio_offset": 85910.5,
+        "duration": 100.0,
+        "text": "."
+    },
+    {
+        "audio_offset": 86810.0,
+        "duration": 162.5,
+        "text": "If"
+    },
+    {
+        "audio_offset": 86985.0,
+        "duration": 475.0,
+        "text": "vacant"
+    },
+    {
+        "audio_offset": 87560.0,
+        "duration": 25.0,
+        "text": ","
+    },
+    {
+        "audio_offset": 87585.0,
+        "duration": 362.5,
+        "text": "default"
+    },
+    {
+        "audio_offset": 87960.0,
+        "duration": 100.0,
+        "text": "is"
+    },
+    {
+        "audio_offset": 88072.5,
+        "duration": 187.5,
+        "text": "set"
+    },
+    {
+        "audio_offset": 88272.5,
+        "duration": 75.0,
+        "text": "to"
+    },
+    {
+        "audio_offset": 88360.0,
+        "duration": 100.0,
+        "text": "be"
+    },
+    {
+        "audio_offset": 88472.5,
+        "duration": 100.0,
+        "text": "the"
+    },
+    {
+        "audio_offset": 88585.0,
+        "duration": 200.0,
+        "text": "date"
+    },
+    {
+        "audio_offset": 88797.5,
+        "duration": 62.5,
+        "text": "of"
+    },
+    {
+        "audio_offset": 88872.5,
+        "duration": 187.5,
+        "text": "this"
+    },
+    {
+        "audio_offset": 89072.5,
+        "duration": 525.0,
+        "text": "Friday"
+    },
+    {
+        "audio_offset": 89610.0,
+        "duration": 100.0,
+        "text": "."
+    },
+    {
+        "audio_offset": 90530.0,
+        "duration": 400.0,
+        "text": "Finish"
+    },
+    {
+        "audio_offset": 90942.5,
+        "duration": 87.5,
+        "text": "the"
+    },
+    {
+        "audio_offset": 91042.5,
+        "duration": 937.5,
+        "text": "modification"
+    },
+    {
+        "audio_offset": 92080.0,
+        "duration": 125.0,
+        "text": "and"
+    },
+    {
+        "audio_offset": 92217.5,
+        "duration": 237.5,
+        "text": "save"
+    },
+    {
+        "audio_offset": 92467.5,
+        "duration": 75.0,
+        "text": "the"
+    },
+    {
+        "audio_offset": 92555.0,
+        "duration": 387.5,
+        "text": "excel"
+    },
+    {
+        "audio_offset": 92955.0,
+        "duration": 525.0,
+        "text": "file"
+    },
+    {
+        "audio_offset": 93592.5,
+        "duration": 112.5,
+        "text": "to"
+    },
+    {
+        "audio_offset": 93717.5,
+        "duration": 350.0,
+        "text": "provide"
+    },
+    {
+        "audio_offset": 94080.0,
+        "duration": 100.0,
+        "text": "the"
+    },
+    {
+        "audio_offset": 94192.5,
+        "duration": 437.5,
+        "text": "updated"
+    },
+    {
+        "audio_offset": 94642.5,
+        "duration": 425.0,
+        "text": "data"
+    },
+    {
+        "audio_offset": 95080.0,
+        "duration": 100.0,
+        "text": "."
+    },
+    {
+        "audio_offset": 95978.0,
+        "duration": 337.5,
+        "text": "Once"
+    },
+    {
+        "audio_offset": 96328.0,
+        "duration": 100.0,
+        "text": "the"
+    },
+    {
+        "audio_offset": 96440.5,
+        "duration": 400.0,
+        "text": "excel"
+    },
+    {
+        "audio_offset": 96853.0,
+        "duration": 450.0,
+        "text": "file"
+    },
+    {
+        "audio_offset": 97365.5,
+        "duration": 125.0,
+        "text": "is"
+    },
+    {
+        "audio_offset": 97503.0,
+        "duration": 475.0,
+        "text": "saved"
+    },
+    {
+        "audio_offset": 98078.0,
+        "duration": 87.5,
+        "text": ","
+    },
+    {
+        "audio_offset": 98165.5,
+        "duration": 275.0,
+        "text": "within"
+    },
+    {
+        "audio_offset": 98453.0,
+        "duration": 687.5,
+        "text": "2 mins"
+    },
+    {
+        "audio_offset": 99240.5,
+        "duration": 62.5,
+        "text": ","
+    },
+    {
+        "audio_offset": 99303.0,
+        "duration": 100.0,
+        "text": "you"
+    },
+    {
+        "audio_offset": 99415.5,
+        "duration": 125.0,
+        "text": "will"
+    },
+    {
+        "audio_offset": 99553.0,
+        "duration": 312.5,
+        "text": "receive"
+    },
+    {
+        "audio_offset": 99878.0,
+        "duration": 50.0,
+        "text": "a"
+    },
+    {
+        "audio_offset": 99940.5,
+        "duration": 812.5,
+        "text": "notification"
+    },
+    {
+        "audio_offset": 100765.5,
+        "duration": 137.5,
+        "text": "on"
+    },
+    {
+        "audio_offset": 100915.5,
+        "duration": 537.5,
+        "text": "Teams"
+    },
+    {
+        "audio_offset": 101553.0,
+        "duration": 100.0,
+        "text": ","
+    },
+    {
+        "audio_offset": 101653.0,
+        "duration": 125.0,
+        "text": "with"
+    },
+    {
+        "audio_offset": 101790.5,
+        "duration": 100.0,
+        "text": "the"
+    },
+    {
+        "audio_offset": 101903.0,
+        "duration": 275.0,
+        "text": "link"
+    },
+    {
+        "audio_offset": 102190.5,
+        "duration": 100.0,
+        "text": "to"
+    },
+    {
+        "audio_offset": 102303.0,
+        "duration": 450.0,
+        "text": "access"
+    },
+    {
+        "audio_offset": 102765.5,
+        "duration": 625.0,
+        "text": "PowerBI"
+    },
+    {
+        "audio_offset": 103403.0,
+        "duration": 737.5,
+        "text": "workspace"
+    },
+    {
+        "audio_offset": 104215.5,
+        "duration": 112.5,
+        "text": "to"
+    },
+    {
+        "audio_offset": 104340.5,
+        "duration": 175.0,
+        "text": "get"
+    },
+    {
+        "audio_offset": 104528.0,
+        "duration": 75.0,
+        "text": "the"
+    },
+    {
+        "audio_offset": 104615.5,
+        "duration": 612.5,
+        "text": "report"
+    },
+    {
+        "audio_offset": 105240.5,
+        "duration": 100.0,
+        "text": "."
+    },
+    {
+        "audio_offset": 106154.0,
+        "duration": 275.0,
+        "text": "Open"
+    },
+    {
+        "audio_offset": 106441.5,
+        "duration": 112.5,
+        "text": "the"
+    },
+    {
+        "audio_offset": 106566.5,
+        "duration": 312.5,
+        "text": "link"
+    },
+    {
+        "audio_offset": 106891.5,
+        "duration": 75.0,
+        "text": "to"
+    },
+    {
+        "audio_offset": 106979.0,
+        "duration": 425.0,
+        "text": "access"
+    },
+    {
+        "audio_offset": 107416.5,
+        "duration": 87.5,
+        "text": "the"
+    },
+    {
+        "audio_offset": 107516.5,
+        "duration": 800.0,
+        "text": "workspace"
+    },
+    {
+        "audio_offset": 108329.0,
+        "duration": 100.0,
+        "text": "."
+    },
+    {
+        "audio_offset": 109250.0,
+        "duration": 237.5,
+        "text": "Click"
+    },
+    {
+        "audio_offset": 109500.0,
+        "duration": 87.5,
+        "text": "the"
+    },
+    {
+        "audio_offset": 109600.0,
+        "duration": 425.0,
+        "text": "refresh"
+    },
+    {
+        "audio_offset": 110037.5,
+        "duration": 262.5,
+        "text": "button"
+    },
+    {
+        "audio_offset": 110312.5,
+        "duration": 387.5,
+        "text": "here"
+    },
+    {
+        "audio_offset": 110800.0,
+        "duration": 112.5,
+        "text": "to"
+    },
+    {
+        "audio_offset": 110925.0,
+        "duration": 387.5,
+        "text": "refresh"
+    },
+    {
+        "audio_offset": 111325.0,
+        "duration": 87.5,
+        "text": "the"
+    },
+    {
+        "audio_offset": 111425.0,
+        "duration": 262.5,
+        "text": "data"
+    },
+    {
+        "audio_offset": 111700.0,
+        "duration": 137.5,
+        "text": "you"
+    },
+    {
+        "audio_offset": 111850.0,
+        "duration": 262.5,
+        "text": "just"
+    },
+    {
+        "audio_offset": 112125.0,
+        "duration": 512.5,
+        "text": "updated"
+    },
+    {
+        "audio_offset": 112650.0,
+        "duration": 100.0,
+        "text": "."
+    },
+    {
+        "audio_offset": 113570.0,
+        "duration": 737.5,
+        "text": "Automatically"
+    },
+    {
+        "audio_offset": 114320.0,
+        "duration": 462.5,
+        "text": "refreshed"
+    },
+    {
+        "audio_offset": 114795.0,
+        "duration": 562.5,
+        "text": "hourly"
+    },
+    {
+        "audio_offset": 115370.0,
+        "duration": 100.0,
+        "text": "."
+    },
+    {
+        "audio_offset": 116282.0,
+        "duration": 287.5,
+        "text": "Once"
+    },
+    {
+        "audio_offset": 116582.0,
+        "duration": 87.5,
+        "text": "the"
+    },
+    {
+        "audio_offset": 116682.0,
+        "duration": 412.5,
+        "text": "refresh"
+    },
+    {
+        "audio_offset": 117107.0,
+        "duration": 125.0,
+        "text": "is"
+    },
+    {
+        "audio_offset": 117244.5,
+        "duration": 600.0,
+        "text": "completed"
+    },
+    {
+        "audio_offset": 117957.0,
+        "duration": 87.5,
+        "text": ","
+    },
+    {
+        "audio_offset": 118044.5,
+        "duration": 412.5,
+        "text": "select"
+    },
+    {
+        "audio_offset": 118469.5,
+        "duration": 87.5,
+        "text": "the"
+    },
+    {
+        "audio_offset": 118569.5,
+        "duration": 437.5,
+        "text": "interval"
+    },
+    {
+        "audio_offset": 119019.5,
+        "duration": 75.0,
+        "text": "of"
+    },
+    {
+        "audio_offset": 119107.0,
+        "duration": 75.0,
+        "text": "the"
+    },
+    {
+        "audio_offset": 119194.5,
+        "duration": 400.0,
+        "text": "report"
+    },
+    {
+        "audio_offset": 119607.0,
+        "duration": 112.5,
+        "text": "you"
+    },
+    {
+        "audio_offset": 119732.0,
+        "duration": 337.5,
+        "text": "need"
+    },
+    {
+        "audio_offset": 120132.0,
+        "duration": 150.0,
+        "text": "and"
+    },
+    {
+        "audio_offset": 120294.5,
+        "duration": 250.0,
+        "text": "open"
+    },
+    {
+        "audio_offset": 120557.0,
+        "duration": 262.5,
+        "text": "it"
+    },
+    {
+        "audio_offset": 120832.0,
+        "duration": 100.0,
+        "text": "."
+    },
+    {
+        "audio_offset": 121730.0,
+        "duration": 450.0,
+        "text": "Refresh"
+    },
+    {
+        "audio_offset": 122192.5,
+        "duration": 100.0,
+        "text": "the"
+    },
+    {
+        "audio_offset": 122305.0,
+        "duration": 425.0,
+        "text": "page"
+    },
+    {
+        "audio_offset": 122792.5,
+        "duration": 100.0,
+        "text": "if"
+    },
+    {
+        "audio_offset": 122905.0,
+        "duration": 362.5,
+        "text": "already"
+    },
+    {
+        "audio_offset": 123280.0,
+        "duration": 262.5,
+        "text": "opened"
+    },
+    {
+        "audio_offset": 123555.0,
+        "duration": 75.0,
+        "text": "the"
+    },
+    {
+        "audio_offset": 123642.5,
+        "duration": 375.0,
+        "text": "report"
+    },
+    {
+        "audio_offset": 124030.0,
+        "duration": 550.0,
+        "text": "page"
+    },
+    {
+        "audio_offset": 124592.5,
+        "duration": 100.0,
+        "text": "."
+    },
+    {
+        "audio_offset": 125498.0,
+        "duration": 450.0,
+        "text": "Select"
+    },
+    {
+        "audio_offset": 125960.5,
+        "duration": 87.5,
+        "text": "the"
+    },
+    {
+        "audio_offset": 126060.5,
+        "duration": 362.5,
+        "text": "client"
+    },
+    {
+        "audio_offset": 126435.5,
+        "duration": 337.5,
+        "text": "name"
+    },
+    {
+        "audio_offset": 126848.0,
+        "duration": 112.5,
+        "text": "to"
+    },
+    {
+        "audio_offset": 126973.0,
+        "duration": 450.0,
+        "text": "generate"
+    },
+    {
+        "audio_offset": 127435.5,
+        "duration": 75.0,
+        "text": "the"
+    },
+    {
+        "audio_offset": 127523.0,
+        "duration": 475.0,
+        "text": "report"
+    },
+    {
+        "audio_offset": 128048.0,
+        "duration": 112.5,
+        "text": "and"
+    },
+    {
+        "audio_offset": 128173.0,
+        "duration": 437.5,
+        "text": "download"
+    },
+    {
+        "audio_offset": 128623.0,
+        "duration": 187.5,
+        "text": "it"
+    },
+    {
+        "audio_offset": 128910.5,
+        "duration": 37.5,
+        "text": "("
+    },
+    {
+        "audio_offset": 128948.0,
+        "duration": 487.5,
+        "text": "PDF"
+    },
+    {
+        "audio_offset": 129448.0,
+        "duration": 412.5,
+        "text": "only"
+    },
+    {
+        "audio_offset": 129960.5,
+        "duration": 50.0,
+        "text": ")"
+    },
+    {
+        "audio_offset": 130010.5,
+        "duration": 162.5,
+        "text": "for"
+    },
+    {
+        "audio_offset": 130185.5,
+        "duration": 875.0,
+        "text": "circulation"
+    },
+    {
+        "audio_offset": 131073.0,
+        "duration": 100.0,
+        "text": "."
+    },
+    {
+        "audio_offset": 131978.0,
+        "duration": 150.0,
+        "text": "You"
+    },
+    {
+        "audio_offset": 132140.5,
+        "duration": 175.0,
+        "text": "may"
+    },
+    {
+        "audio_offset": 132328.0,
+        "duration": 287.5,
+        "text": "search"
+    },
+    {
+        "audio_offset": 132628.0,
+        "duration": 125.0,
+        "text": "for"
+    },
+    {
+        "audio_offset": 132765.5,
+        "duration": 125.0,
+        "text": "your"
+    },
+    {
+        "audio_offset": 132903.0,
+        "duration": 437.5,
+        "text": "report"
+    },
+    {
+        "audio_offset": 133353.0,
+        "duration": 100.0,
+        "text": "by"
+    },
+    {
+        "audio_offset": 133465.5,
+        "duration": 150.0,
+        "text": "your"
+    },
+    {
+        "audio_offset": 133628.0,
+        "duration": 325.0,
+        "text": "first"
+    },
+    {
+        "audio_offset": 133965.5,
+        "duration": 362.5,
+        "text": "name"
+    },
+    {
+        "audio_offset": 134340.5,
+        "duration": 100.0,
+        "text": "."
+    },
+    {
+        "audio_offset": 135242.0,
+        "duration": 125.0,
+        "text": "The"
+    },
+    {
+        "audio_offset": 135379.5,
+        "duration": 412.5,
+        "text": "report"
+    },
+    {
+        "audio_offset": 135854.5,
+        "duration": 137.5,
+        "text": "is"
+    },
+    {
+        "audio_offset": 136004.5,
+        "duration": 212.5,
+        "text": "now"
+    },
+    {
+        "audio_offset": 136229.5,
+        "duration": 262.5,
+        "text": "ready"
+    },
+    {
+        "audio_offset": 136504.5,
+        "duration": 137.5,
+        "text": "with"
+    },
+    {
+        "audio_offset": 136654.5,
+        "duration": 162.5,
+        "text": "all"
+    },
+    {
+        "audio_offset": 136829.5,
+        "duration": 112.5,
+        "text": "the"
+    },
+    {
+        "audio_offset": 136954.5,
+        "duration": 412.5,
+        "text": "updated"
+    },
+    {
+        "audio_offset": 137379.5,
+        "duration": 362.5,
+        "text": "data"
+    },
+    {
+        "audio_offset": 137804.5,
+        "duration": 125.0,
+        "text": "in"
+    },
+    {
+        "audio_offset": 137942.0,
+        "duration": 575.0,
+        "text": "Excel"
+    },
+    {
+        "audio_offset": 138529.5,
+        "duration": 100.0,
+        "text": "."
+    },
+    {
+        "audio_offset": 139442.0,
+        "duration": 137.5,
+        "text": "To"
+    },
+    {
+        "audio_offset": 139592.0,
+        "duration": 350.0,
+        "text": "change"
+    },
+    {
+        "audio_offset": 139954.5,
+        "duration": 337.5,
+        "text": "Client"
+    },
+    {
+        "audio_offset": 140304.5,
+        "duration": 625.0,
+        "text": "sentiments"
+    },
+    {
+        "audio_offset": 141029.5,
+        "duration": 50.0,
+        "text": ","
+    },
+    {
+        "audio_offset": 141079.5,
+        "duration": 275.0,
+        "text": "please"
+    },
+    {
+        "audio_offset": 141367.0,
+        "duration": 175.0,
+        "text": "use"
+    },
+    {
+        "audio_offset": 141554.5,
+        "duration": 112.5,
+        "text": "to"
+    },
+    {
+        "audio_offset": 141679.5,
+        "duration": 337.5,
+        "text": "Client"
+    },
+    {
+        "audio_offset": 142029.5,
+        "duration": 375.0,
+        "text": "Sentiment"
+    },
+    {
+        "audio_offset": 142417.0,
+        "duration": 462.5,
+        "text": "Portal"
+    },
+    {
+        "audio_offset": 142892.0,
+        "duration": 100.0,
+        "text": "."
+    },
+    {
+        "audio_offset": 143810.0,
+        "duration": 475.0,
+        "text": "Changes"
+    },
+    {
+        "audio_offset": 144297.5,
+        "duration": 200.0,
+        "text": "made"
+    },
+    {
+        "audio_offset": 144510.0,
+        "duration": 100.0,
+        "text": "on"
+    },
+    {
+        "audio_offset": 144622.5,
+        "duration": 75.0,
+        "text": "the"
+    },
+    {
+        "audio_offset": 144710.0,
+        "duration": 387.5,
+        "text": "excel"
+    },
+    {
+        "audio_offset": 145110.0,
+        "duration": 650.0,
+        "text": "templates"
+    },
+    {
+        "audio_offset": 145860.0,
+        "duration": 112.5,
+        "text": "to"
+    },
+    {
+        "audio_offset": 145985.0,
+        "duration": 100.0,
+        "text": "the"
+    },
+    {
+        "audio_offset": 146097.5,
+        "duration": 462.5,
+        "text": "sentiment"
+    },
+    {
+        "audio_offset": 146572.5,
+        "duration": 387.5,
+        "text": "rating"
+    },
+    {
+        "audio_offset": 147060.0,
+        "duration": 150.0,
+        "text": "will"
+    },
+    {
+        "audio_offset": 147222.5,
+        "duration": 200.0,
+        "text": "not"
+    },
+    {
+        "audio_offset": 147435.0,
+        "duration": 112.5,
+        "text": "be"
+    },
+    {
+        "audio_offset": 147560.0,
+        "duration": 450.0,
+        "text": "captured"
+    },
+    {
+        "audio_offset": 148022.5,
+        "duration": 125.0,
+        "text": "by"
+    },
+    {
+        "audio_offset": 148160.0,
+        "duration": 100.0,
+        "text": "the"
+    },
+    {
+        "audio_offset": 148272.5,
+        "duration": 612.5,
+        "text": "system"
+    },
+    {
+        "audio_offset": 148897.5,
+        "duration": 100.0,
+        "text": "."
+    },
+    {
+        "audio_offset": 149810.0,
+        "duration": 450.0,
+        "text": "Changes"
+    },
+    {
+        "audio_offset": 150272.5,
+        "duration": 200.0,
+        "text": "made"
+    },
+    {
+        "audio_offset": 150485.0,
+        "duration": 100.0,
+        "text": "on"
+    },
+    {
+        "audio_offset": 150597.5,
+        "duration": 87.5,
+        "text": "the"
+    },
+    {
+        "audio_offset": 150697.5,
+        "duration": 462.5,
+        "text": "sentiment"
+    },
+    {
+        "audio_offset": 151172.5,
+        "duration": 475.0,
+        "text": "portal"
+    },
+    {
+        "audio_offset": 151710.0,
+        "duration": 137.5,
+        "text": "will"
+    },
+    {
+        "audio_offset": 151860.0,
+        "duration": 137.5,
+        "text": "be"
+    },
+    {
+        "audio_offset": 152010.0,
+        "duration": 737.5,
+        "text": "automatically"
+    },
+    {
+        "audio_offset": 152760.0,
+        "duration": 375.0,
+        "text": "synced"
+    },
+    {
+        "audio_offset": 153147.5,
+        "duration": 225.0,
+        "text": "every"
+    },
+    {
+        "audio_offset": 153385.0,
+        "duration": 750.0,
+        "text": "10 mins"
+    },
+    {
+        "audio_offset": 154235.0,
+        "duration": 100.0,
+        "text": ","
+    },
+    {
+        "audio_offset": 154335.0,
+        "duration": 212.5,
+        "text": "thus"
+    },
+    {
+        "audio_offset": 154560.0,
+        "duration": 250.0,
+        "text": "allow"
+    },
+    {
+        "audio_offset": 154822.5,
+        "duration": 537.5,
+        "text": "sufficient"
+    },
+    {
+        "audio_offset": 155372.5,
+        "duration": 400.0,
+        "text": "time"
+    },
+    {
+        "audio_offset": 155860.0,
+        "duration": 125.0,
+        "text": "for"
+    },
+    {
+        "audio_offset": 155997.5,
+        "duration": 87.5,
+        "text": "the"
+    },
+    {
+        "audio_offset": 156097.5,
+        "duration": 612.5,
+        "text": "changes"
+    },
+    {
+        "audio_offset": 156772.5,
+        "duration": 112.5,
+        "text": "to"
+    },
+    {
+        "audio_offset": 156897.5,
+        "duration": 400.0,
+        "text": "sync"
+    },
+    {
+        "audio_offset": 157360.0,
+        "duration": 325.0,
+        "text": "before"
+    },
+    {
+        "audio_offset": 157697.5,
+        "duration": 87.5,
+        "text": "the"
+    },
+    {
+        "audio_offset": 157797.5,
+        "duration": 325.0,
+        "text": "meeting"
+    },
+    {
+        "audio_offset": 158135.0,
+        "duration": 475.0,
+        "text": "time"
+    },
+    {
+        "audio_offset": 158622.5,
+        "duration": 100.0,
+        "text": "."
+    }
+]

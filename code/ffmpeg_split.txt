@@ -1,1 +1,0 @@
-ffmpeg -i input.wav -f segment -segment_time 2 output_%03d.wav

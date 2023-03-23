@@ -1,0 +1,14 @@
+Every Monday at 10 AM EST, you get notified via teams notification with a link to access the report. Click to access the workspace of AO Governance Report.
+Select your client and click "view report" to generate it. Export the report to PDF (PDF only). The data from Client Sentiment Portal for the week is automatically updated. 
+However,we still need to update data for other parts of the report. 
+
+Every Monday at 11 AM EST, there will be a teams notification with the directory to provide data to update the report. Open the Box folder with Your Name_Client Governance and open the folder with the latest date (this Friday). 
+Update the Excel files for all your clients to reflect on the AO Governance Reports. For the first time, it might take sometime to update. For the following weeks, data from last week will be automatically carried over for further updates. 
+
+To update for Services page, go to the "Services" tab and update all yellow highlighted columns. To update for Projects page, go to the "Projects" tab and update all yellow highlighted columns. 
+To update for Executive Summary page, go to the "Summary" tab and update all columns. To customize the reporting cycle, go to the "Basic Info" tab to update the reporting cycle. If vacant, default is set to be the date of this Friday. Finish the modification and save the excel file to provide the updated data.
+
+ Once the excel file is saved, within 2 mins, you will receive a notification on Teams, with the link to access PowerBI workspace to get the report.  Open the link to access the workspace. Click the refresh button here to refresh the data you just updated. Automatically refreshed hourly. Once the refresh is completed,  select the interval of the report you need and open it. Refresh the page if already opened the report page. Select the client name to generate the report and download it ( PDF only) for circulation. You may search for your report by your first name. 
+
+ The report is now ready with all the updated data in Excel. To change Client sentiments, please use to Client Sentiment Portal. 
+ Changes made on the excel templates to the sentiment rating will not be captured by the system. Changes made on the sentiment portal will be automatically synced every 10 mins, thus allow sufficient time for the changes to sync before the meeting time.

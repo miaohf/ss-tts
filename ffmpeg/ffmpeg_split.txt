@@ -1,0 +1,3 @@
+ffmpeg -i input.wav -f segment -segment_time 2 output_%03d.wav
+
+ffmpeg -i nixon.mp3 -f segment -segment_time 9  -ab 22050 ./output/out%03d.wav

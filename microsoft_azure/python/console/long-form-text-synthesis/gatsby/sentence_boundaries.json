@@ -1,0 +1,147 @@
+[
+    {
+        "audio_offset": 50.0,
+        "duration": 8050.000000000001,
+        "text": "Every Monday at 10 AM EST, you get notified via teams notification with a link to access the report."
+    },
+    {
+        "audio_offset": 8210.0,
+        "duration": 3725.0,
+        "text": "Click to access the workspace of AO Governance Report."
+    },
+    {
+        "audio_offset": 12050.0,
+        "duration": 4200.0,
+        "text": "Select your client and click \"view report\" to generate it."
+    },
+    {
+        "audio_offset": 16370.0,
+        "duration": 3787.5,
+        "text": "Export the report to PDF (PDF only)."
+    },
+    {
+        "audio_offset": 20258.0,
+        "duration": 4875.0,
+        "text": "The data from Client Sentiment Portal for the week is automatically updated."
+    },
+    {
+        "audio_offset": 25250.0,
+        "duration": 4612.5,
+        "text": "However,we still need to update data for other parts of the report."
+    },
+    {
+        "audio_offset": 29978.0,
+        "duration": 8937.5,
+        "text": "Every Monday at 11 AM EST, there will be a teams notification with the directory to provide data to update the report."
+    },
+    {
+        "audio_offset": 39026.0,
+        "duration": 7100.0,
+        "text": "Open the Box folder with Your Name_Client Governance and open the folder with the latest date (this Friday)."
+    },
+    {
+        "audio_offset": 46226.0,
+        "duration": 5575.0,
+        "text": "Update the Excel files for all your clients to reflect on the AO Governance Reports."
+    },
+    {
+        "audio_offset": 51914.0,
+        "duration": 3550.0,
+        "text": "For the first time, it might take sometime to update."
+    },
+    {
+        "audio_offset": 55562.0,
+        "duration": 6325.0,
+        "text": "For the following weeks, data from last week will be automatically carried over for further updates."
+    },
+    {
+        "audio_offset": 61994.0,
+        "duration": 6237.5,
+        "text": "To update for Services page, go to the \"Services\" tab and update all yellow highlighted columns."
+    },
+    {
+        "audio_offset": 68330.0,
+        "duration": 6187.5,
+        "text": "To update for Projects page, go to the \"Projects\" tab and update all yellow highlighted columns."
+    },
+    {
+        "audio_offset": 74618.0,
+        "duration": 5762.5,
+        "text": "To update for Executive Summary page, go to the \"Summary\" tab and update all columns."
+    },
+    {
+        "audio_offset": 80498.0,
+        "duration": 6212.5,
+        "text": "To customize the reporting cycle, go to the \"Basic Info\" tab to update the reporting cycle."
+    },
+    {
+        "audio_offset": 86810.0,
+        "duration": 3600.0,
+        "text": "If vacant, default is set to be the date of this Friday."
+    },
+    {
+        "audio_offset": 90530.0,
+        "duration": 5350.0,
+        "text": "Finish the modification and save the excel file to provide the updated data."
+    },
+    {
+        "audio_offset": 95978.0,
+        "duration": 10062.5,
+        "text": "Once the excel file is saved, within 2 mins, you will receive a notification on Teams, with the link to access PowerBI workspace to get the report."
+    },
+    {
+        "audio_offset": 106154.0,
+        "duration": 2975.0,
+        "text": "Open the link to access the workspace."
+    },
+    {
+        "audio_offset": 109250.0,
+        "duration": 4200.0,
+        "text": "Click the refresh button here to refresh the data you just updated."
+    },
+    {
+        "audio_offset": 113570.0,
+        "duration": 2600.0,
+        "text": "Automatically refreshed hourly."
+    },
+    {
+        "audio_offset": 116282.0,
+        "duration": 5350.0,
+        "text": "Once the refresh is completed,  select the interval of the report you need and open it."
+    },
+    {
+        "audio_offset": 121730.0,
+        "duration": 3662.5,
+        "text": "Refresh the page if already opened the report page."
+    },
+    {
+        "audio_offset": 125498.0,
+        "duration": 6375.0,
+        "text": "Select the client name to generate the report and download it ( PDF only) for circulation."
+    },
+    {
+        "audio_offset": 131978.0,
+        "duration": 3162.5,
+        "text": "You may search for your report by your first name."
+    },
+    {
+        "audio_offset": 135242.0,
+        "duration": 4087.5000000000005,
+        "text": "The report is now ready with all the updated data in Excel."
+    },
+    {
+        "audio_offset": 139442.0,
+        "duration": 4250.0,
+        "text": "To change Client sentiments, please use to Client Sentiment Portal."
+    },
+    {
+        "audio_offset": 143810.0,
+        "duration": 5887.5,
+        "text": "Changes made on the excel templates to the sentiment rating will not be captured by the system."
+    },
+    {
+        "audio_offset": 149810.0,
+        "duration": 9612.5,
+        "text": "Changes made on the sentiment portal will be automatically synced every 10 mins, thus allow sufficient time for the changes to sync before the meeting time."
+    }
+]
